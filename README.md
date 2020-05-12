@@ -1,6 +1,8 @@
-rocket launch dashboard is a full-stack web application modeled after Airbnb and geared toward solo travelers. It uses React with GraphQL database on the back-end, and React.js and Redux on the front-end. For image hosting, it utilizes Amazon Web Services. For live messaging, it uses Action Cable to integrate WebSockets with the rest of the Rails application.
-I implement my own GraphQL Express server and fetch data from spaceX API
-Homepage
+#Technologies:
+Use React Apollo to fetch data from our GraphQL server and use it in building reactive UIs using the React framework
+Use React Router for routing
+Use Axios for API calls
+
 ![homepage-spaceX](https://user-images.githubusercontent.com/47007712/81637558-49e42c80-93dc-11ea-9394-6ddebec657e4.PNG)
 Detail Page
 ![detail page-spaceX](https://user-images.githubusercontent.com/47007712/81637597-5b2d3900-93dc-11ea-900e-9990737fdc51.PNG)
