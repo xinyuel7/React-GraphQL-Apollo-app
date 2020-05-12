@@ -8,7 +8,11 @@ Detail Page
 ![detail page-spaceX](https://user-images.githubusercontent.com/47007712/81637597-5b2d3900-93dc-11ea-900e-9990737fdc51.PNG)
 API Testing
 ![API-testing-spaceX](https://user-images.githubusercontent.com/47007712/81637947-3dac9f00-93dd-11ea-82d7-be0f713cdf5c.PNG)
-
+Query Schema
+![query-spaceX](https://user-images.githubusercontent.com/47007712/81639270-11931d00-93e1-11ea-974f-728717fe2484.PNG)
+Caching query results<br />
+Whenever Apollo Client fetches query results from your server, it automatically caches those results locally. This makes subsequent executions of the same query extremely fast.
+![query_render-spaceX](https://user-images.githubusercontent.com/47007712/81639304-253e8380-93e1-11ea-8cd9-5150f989e3ff.PNG)
 # Install dependencies (server & client)
 npm install
 cd client && npm install
