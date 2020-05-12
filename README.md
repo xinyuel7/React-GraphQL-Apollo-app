@@ -1,5 +1,5 @@
 # Technologies:
-**Use React Apollo to fetch data from our GraphQL server and use it in building reactive UIs using the React framework<br />
+**Use React Apollo to fetch data from our GraphQL server<br />
 Use React Router for routing<br />
 Use Axios for API calls<br />**
 
