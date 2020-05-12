@@ -14,4 +14,4 @@ npm run client
 # Build for production (Builds into server ./public)
 cd client && npm run build
 
-# Graphiql - http://localhost:5000/graphql
+# Graphiql - http://localhost:4000/graphql
